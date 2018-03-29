@@ -3,7 +3,7 @@
 
 ## Setup Instructions
 
-1. Download the ZIP file of the repository.
+1. Download the [ZIP file](https://github.com/sanjeetsuhag/Boiler-Schedule/archive/v1.0.zip) of the repository.
 2. Extract the contents of the zipped archive.
 3. Open Google Chrome.
 4. Go to More Tools > Extensions.
