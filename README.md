@@ -1,14 +1,6 @@
 # Boiler-Schedule
 [![Build Status](https://travis-ci.org/jackielwu/Boiler-Schedule.svg?branch=master)](https://travis-ci.org/jackielwu/Boiler-Schedule)
 
-## Post Instructions
-
-1. Go to [Google API console](https://console.cloud.google.com/apis/).
-2. Go to the Credentials section.
-3. Click on Create Credentials button, and select OAuth Client ID from the drop down.
-4. Select "Chrome App" as the Application Type.
-5. 
-
 ## Setup Instructions
 
 1. Download the ZIP file of the repository.
